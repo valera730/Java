@@ -1,9 +1,9 @@
 package creational.singletone;
 
 /**
- * Одиночка:
- * цель: обеспечить чтобы в программе у нас был только один экземпляр какого-то класса
- */
+* Одиночка:
+* цель: обеспечить чтобы в программе у нас был только один экземпляр какого-то класса
+*/
 public final class Singleton {
     private static Singleton instance;
     public String value;

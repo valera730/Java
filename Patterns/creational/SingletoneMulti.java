@@ -1,4 +1,5 @@
 //Многопоточный Одиночка
+
 public final class Singleton {
     // Поле обязательно должно быть объявлено volatile, чтобы двойная проверка блокировки сработала как надо.
     private static volatile Singleton instance;
