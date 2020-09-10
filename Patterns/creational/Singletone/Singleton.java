@@ -1,4 +1,4 @@
-package creational.singletone;
+package creational.singletone; 
 
 /**
 * Одиночка:
